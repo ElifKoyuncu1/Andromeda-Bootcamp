@@ -1,3 +1,8 @@
+![AndroLearn Banner](resim.png)
+
+
+---
+
 ## 🧠 **AndroLearn**  
 Andromeda Bootcamp kapsamında geliştirilen **AndroLearn**, Web2 geliştiricilerini Web3 dünyasına adım adım dahil etmeyi amaçlayan bir **Öğren-Kazan (Learn-to-Earn)** platformudur. Kullanıcılar, hem teorik bilgileri öğrenir hem de zincir üstü görevleri tamamlayarak dijital ödüller kazanır.
 
