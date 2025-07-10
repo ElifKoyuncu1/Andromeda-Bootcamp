@@ -1,4 +1,4 @@
-# 🧠 **AndroLearn**  
+## 🧠 **AndroLearn**  
 Andromeda Bootcamp kapsamında geliştirilen **AndroLearn**, Web2 geliştiricilerini Web3 dünyasına adım adım dahil etmeyi amaçlayan bir **Öğren-Kazan (Learn-to-Earn)** platformudur. Kullanıcılar, hem teorik bilgileri öğrenir hem de zincir üstü görevleri tamamlayarak dijital ödüller kazanır.
 
 ---
@@ -42,6 +42,7 @@ Gelecekte platform:
 - Türkçe ve İngilizce dil desteğiyle uluslararası erişime açılacak  
 - Sertifikalı eğitim modülü ve kullanıcı ilerleme takibi gibi özelliklerle genişletilecektir.
 
+---
 
 ## 🚀 Features
 
@@ -51,6 +52,8 @@ Gelecekte platform:
 - 🔗 Andromeda blockchain integration
 - 🛡️ Final certification as an NFT
 - 🌐 User-friendly and beginner-focused interface
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -63,11 +66,15 @@ Gelecekte platform:
 | Wallet      | Keplr / Hiro Wallet         |
 | Storage     | IPFS (NFT metadata)         |
 
+---
+
 ## 🧪 Smart Contract Modules
 
 - `TaskManager`: Verifies task completion and tracks progress
 - `RewardNFT`: Mints NFTs after completing specific tasks
 - `AndroToken`: Optional reward token contract (ERC20-style)
+
+---
 
 ## 🧭 User Flow
 
@@ -78,6 +85,8 @@ Gelecekte platform:
 5. Receive reward on-chain (NFT or token)  
 6. Track progress and collect final certification
 
+---
+
 ## 🔧 Installation (for devs)
 
 ```bash
@@ -86,6 +95,8 @@ cd AndroLearn
 yarn install
 yarn dev
 ```
+
+---
 
 ## 🔧 Deployment Note
 
