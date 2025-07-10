@@ -1,9 +1,9 @@
-🧠 **AndroLearn**  
+# 🧠 **AndroLearn**  
 Andromeda Bootcamp kapsamında geliştirilen **AndroLearn**, Web2 geliştiricilerini Web3 dünyasına adım adım dahil etmeyi amaçlayan bir **Öğren-Kazan (Learn-to-Earn)** platformudur. Kullanıcılar, hem teorik bilgileri öğrenir hem de zincir üstü görevleri tamamlayarak dijital ödüller kazanır.
 
 ---
 
-🌌 **Hakkımda**  
+## 🌌 **Hakkımda**  
 Merhaba, ben **Elif Koyuncu**. Gümüşhane Üniversitesi’nde Yönetim Bilişim Sistemleri okuyorum. Web3 teknolojilerine duyduğum ilgi, beni Andromeda Bootcamp’e katılmaya yönlendirdi.  
 Bu projeyle amacım, benim gibi Web2 geçmişine sahip olanların Web3’e geçiş sürecini kolaylaştırmak, pratik görevlerle bu dünyayı deneyimlemelerini sağlamaktır.
 
@@ -12,7 +12,7 @@ Yeni başlayanlara destek olmayı, onları öğrenerek üretmeye teşvik etmeyi 
 
 ---
 
-📘 **Proje Detayları**  
+## 📘 **Proje Detayları**  
 **AndroLearn**, kullanıcıların Web3'e dair temel konuları öğrendikleri ve öğrendiklerini uygulayarak zincir üzerinde **NFT** veya **token** gibi ödüller kazandıkları bir platformdur.
 
 Kapsadığı ana başlıklar:
@@ -28,7 +28,7 @@ Uygulama, kullanıcıya hem eğitsel bir yol haritası sunar hem de her görevi 
 
 ---
 
-🌍 **Vizyon**  
+## 🌍 **Vizyon**  
 Web3, teknik terimler ve karmaşık süreçlerle yeni başlayanlar için erişilmesi zor bir alan gibi görünebilir.  
 **AndroLearn**, bu engelleri yıkmak için var:  
 - Anlaşılır içeriklerle bilgi verir,  
