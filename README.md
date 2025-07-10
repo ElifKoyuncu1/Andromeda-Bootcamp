@@ -90,7 +90,7 @@ Gelecekte platform:
 ## 🔧 Installation (for devs)
 
 ```bash
-git clone https://github.com/elifkoyuncu/AndroLearn.git
+git clone https://github.com/ElifKoyuncu1/Andromeda-Bootcamp.git
 cd AndroLearn
 yarn install
 yarn dev
