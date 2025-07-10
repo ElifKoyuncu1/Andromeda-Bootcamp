@@ -1,21 +1,47 @@
-# 🧠 AndroLearn
+🧠 **AndroLearn**  
+Andromeda Bootcamp kapsamında geliştirilen **AndroLearn**, Web2 geliştiricilerini Web3 dünyasına adım adım dahil etmeyi amaçlayan bir **Öğren-Kazan (Learn-to-Earn)** platformudur. Kullanıcılar, hem teorik bilgileri öğrenir hem de zincir üstü görevleri tamamlayarak dijital ödüller kazanır.
 
-A Learn-to-Earn platform built for onboarding Web2 developers into the Web3 world, created during the **Andromeda Bootcamp**.
+---
 
-## 🌌 About Me
+🌌 **Hakkımda**  
+Merhaba, ben **Elif Koyuncu**. Gümüşhane Üniversitesi’nde Yönetim Bilişim Sistemleri okuyorum. Web3 teknolojilerine duyduğum ilgi, beni Andromeda Bootcamp’e katılmaya yönlendirdi.  
+Bu projeyle amacım, benim gibi Web2 geçmişine sahip olanların Web3’e geçiş sürecini kolaylaştırmak, pratik görevlerle bu dünyayı deneyimlemelerini sağlamaktır.
 
-Hi, I'm Elif Koyuncu, a Management Information Systems student passionate about Web3 technologies. I joined the Andromeda Bootcamp to transition from Web2 to Web3 and build a meaningful project. *AndroLearn* reflects this journey — a platform to help others learn and earn while exploring the decentralized web.
+**AndroLearn**, bu süreci yansıtan bir araç:  
+Yeni başlayanlara destek olmayı, onları öğrenerek üretmeye teşvik etmeyi ve zincir üstü deneyimi herkes için erişilebilir kılmayı hedefliyor.
 
-## 📘 Project Details
+---
 
-**AndroLearn** is a Web3 onboarding platform where users complete small educational tasks about blockchain technology and earn on-chain rewards such as NFTs or tokens. Designed for beginners, the platform guides users step-by-step — from setting up a wallet to interacting with smart contracts on the Andromeda blockchain.
+📘 **Proje Detayları**  
+**AndroLearn**, kullanıcıların Web3'e dair temel konuları öğrendikleri ve öğrendiklerini uygulayarak zincir üzerinde **NFT** veya **token** gibi ödüller kazandıkları bir platformdur.
 
-It’s simple:  
-**Learn → Complete Tasks → Earn Rewards (on-chain).**
+Kapsadığı ana başlıklar:
+- Cüzdan oluşturma ve bağlama (Keplr / Hiro Wallet)  
+- Akıllı sözleşme ile ilk etkileşim  
+- Token gönderme / alma görevleri  
+- NFT alma / mint etme deneyimi
 
-## 🌍 Vision
+Uygulama, kullanıcıya hem eğitsel bir yol haritası sunar hem de her görevi birer “seviye” gibi konumlandırarak Web3’e alışmalarını sağlar.
 
-Web3 can seem intimidating to newcomers. AndroLearn aims to break those barriers by offering an interactive, rewarding, and engaging learning path. By gamifying the learning process and providing real blockchain interactions, we empower the next generation of decentralized builders to start strong.
+✅ Basit Mantık:
+**Öğren → Görevleri Tamamla → Ödül Kazan (zincir üstü deneyim)**
+
+---
+
+🌍 **Vizyon**  
+Web3, teknik terimler ve karmaşık süreçlerle yeni başlayanlar için erişilmesi zor bir alan gibi görünebilir.  
+**AndroLearn**, bu engelleri yıkmak için var:  
+- Anlaşılır içeriklerle bilgi verir,  
+- Basit görevlerle deneyim kazandırır,  
+- Kullanıcının zincirle etkileşimini ödüllendirir.
+
+Bu sayede sadece "öğreten" değil, aynı zamanda **katılımı teşvik eden** bir sistem yaratılmış olur.
+
+Gelecekte platform:
+- Daha fazla görev ve konu başlığı eklenerek zenginleştirilecek  
+- Türkçe ve İngilizce dil desteğiyle uluslararası erişime açılacak  
+- Sertifikalı eğitim modülü ve kullanıcı ilerleme takibi gibi özelliklerle genişletilecektir.
+
 
 ## 🚀 Features
 
