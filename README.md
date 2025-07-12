@@ -3,7 +3,7 @@
 
 ---
 
-# 🧠 AndroLearn
+## 🧠 AndroLearn
 
 AndroLearn, developed within the scope of the Andromeda Bootcamp, is a Learn-to-Earn platform designed to gradually onboard Web2 developers into the world of Web3. Users gain theoretical knowledge and earn digital rewards by completing on-chain tasks.
 
