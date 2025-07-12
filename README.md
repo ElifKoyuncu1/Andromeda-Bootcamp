@@ -3,49 +3,53 @@
 
 ---
 
-## 🧠 **AndroLearn**  
-Andromeda Bootcamp kapsamında geliştirilen **AndroLearn**, Web2 geliştiricilerini Web3 dünyasına adım adım dahil etmeyi amaçlayan bir **Öğren-Kazan (Learn-to-Earn)** platformudur. Kullanıcılar, hem teorik bilgileri öğrenir hem de zincir üstü görevleri tamamlayarak dijital ödüller kazanır.
+# 🧠 AndroLearn
+
+AndroLearn, developed within the scope of the Andromeda Bootcamp, is a Learn-to-Earn platform designed to gradually onboard Web2 developers into the world of Web3. Users gain theoretical knowledge and earn digital rewards by completing on-chain tasks.
 
 ---
 
-## 🌌 **Hakkımda**  
-Merhaba, ben **Elif Koyuncu**. Gümüşhane Üniversitesi’nde Yönetim Bilişim Sistemleri okuyorum. Web3 teknolojilerine duyduğum ilgi, beni Andromeda Bootcamp’e katılmaya yönlendirdi.  
-Bu projeyle amacım, benim gibi Web2 geçmişine sahip olanların Web3’e geçiş sürecini kolaylaştırmak, pratik görevlerle bu dünyayı deneyimlemelerini sağlamaktır.
+## 🌌 About Me
 
-**AndroLearn**, bu süreci yansıtan bir araç:  
-Yeni başlayanlara destek olmayı, onları öğrenerek üretmeye teşvik etmeyi ve zincir üstü deneyimi herkes için erişilebilir kılmayı hedefliyor.
+Hi, I'm Elif Koyuncu. I'm studying Management Information Systems at Gümüşhane University. My interest in Web3 technologies led me to participate in the Andromeda Bootcamp.
 
----
+Through this project, my goal is to ease the transition for those with a Web2 background—just like myself—into Web3, helping them experience this world through practical tasks.
 
-## 📘 **Proje Detayları**  
-**AndroLearn**, kullanıcıların Web3'e dair temel konuları öğrendikleri ve öğrendiklerini uygulayarak zincir üzerinde **NFT** veya **token** gibi ödüller kazandıkları bir platformdur.
-
-Kapsadığı ana başlıklar:
-- Cüzdan oluşturma ve bağlama (Keplr / Hiro Wallet)  
-- Akıllı sözleşme ile ilk etkileşim  
-- Token gönderme / alma görevleri  
-- NFT alma / mint etme deneyimi
-
-Uygulama, kullanıcıya hem eğitsel bir yol haritası sunar hem de her görevi birer “seviye” gibi konumlandırarak Web3’e alışmalarını sağlar.
-
-✅ Basit Mantık:
-**Öğren → Görevleri Tamamla → Ödül Kazan (zincir üstü deneyim)**
+AndroLearn reflects this journey: it aims to support beginners, encourage them to learn and create, and make on-chain experience accessible to all.
 
 ---
 
-## 🌍 **Vizyon**  
-Web3, teknik terimler ve karmaşık süreçlerle yeni başlayanlar için erişilmesi zor bir alan gibi görünebilir.  
-**AndroLearn**, bu engelleri yıkmak için var:  
-- Anlaşılır içeriklerle bilgi verir,  
-- Basit görevlerle deneyim kazandırır,  
-- Kullanıcının zincirle etkileşimini ödüllendirir.
+## 📘 Project Details
 
-Bu sayede sadece "öğreten" değil, aynı zamanda **katılımı teşvik eden** bir sistem yaratılmış olur.
+AndroLearn is a platform where users learn fundamental Web3 topics and earn rewards like NFTs or tokens by putting that knowledge into practice on-chain.
 
-Gelecekte platform:
-- Daha fazla görev ve konu başlığı eklenerek zenginleştirilecek  
-- Türkçe ve İngilizce dil desteğiyle uluslararası erişime açılacak  
-- Sertifikalı eğitim modülü ve kullanıcı ilerleme takibi gibi özelliklerle genişletilecektir.
+**Core Topics Covered:**
+- Creating and connecting wallets (Keplr / Hiro Wallet)
+- First interaction with a smart contract
+- Sending / receiving tokens
+- Experiencing NFT minting and collecting
+
+The app offers users an educational roadmap while presenting each task as a "level," helping them become more familiar with Web3 step by step.
+
+✅ **Simple Flow:** Learn → Complete Tasks → Earn Rewards (on-chain experience)
+
+---
+
+## 🌍 Vision
+
+Web3 can appear complex and intimidating to newcomers due to technical jargon and sophisticated processes.  
+AndroLearn exists to break down these barriers:
+
+- It provides knowledge through clear, accessible content  
+- Offers hands-on experience through simple tasks  
+- Rewards user interactions with the blockchain  
+
+Thus, it creates a system that not only teaches but also motivates active participation.
+
+**Future goals for the platform:**
+- Expand with more tasks and topics  
+- Launch international access via Turkish and English language support  
+- Introduce certified learning modules and user progress tracking features  
 
 ---
 
